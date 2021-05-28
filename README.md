@@ -1,5 +1,5 @@
 # ML and Optimization Projects
-1. [Electric bill optimization](https://github.com/tdincer/Electricity-Bill-Optimization)
+1. [EV-Charging: Electricity bill optimization](https://github.com/tdincer/Electricity-Bill-Optimization)
 2. [Machine failure prediction](https://github.com/tdincer/Machine-Failure-Prediction)
 3. [Pneumonia detection with TF](https://www.kaggle.com/tolgadincer/pneumonia-detection-with-tensorflow)
 4. [Image Segmentation with UNET](https://github.com/tdincer/ImageSegmentation)
