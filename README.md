@@ -1,9 +1,10 @@
 # Data Science Projects
 1. [EV-Charging: Electricity bill optimization](https://github.com/tdincer/Electricity-Bill-Optimization)
-2. [Machine failure prediction](https://github.com/tdincer/Machine-Failure-Prediction) - A Kaggle version is also available [here](https://www.kaggle.com/tolgadincer/pdm-with-xgboost-lightgbm-and-catboost)
-3. [DataJoint Workflow](https://github.com/tdincer/Datajoint-Challenge)
-4. [Pneumonia detection with TF](https://www.kaggle.com/tolgadincer/pneumonia-detection-with-tensorflow)
-5. [Image Segmentation with UNET](https://github.com/tdincer/ImageSegmentation)
+2. [Utility-scale Battery Scheduler with Forecasted Prices](https://github.com/tdincer/PPChallenge)
+3. [Machine failure prediction](https://github.com/tdincer/Machine-Failure-Prediction) - A Kaggle version is also available [here](https://www.kaggle.com/tolgadincer/pdm-with-xgboost-lightgbm-and-catboost)
+4. [DataJoint Workflow](https://github.com/tdincer/Datajoint-Challenge)
+5. [Pneumonia detection with TF](https://www.kaggle.com/tolgadincer/pneumonia-detection-with-tensorflow)
+6. [Image Segmentation with UNET](https://github.com/tdincer/ImageSegmentation)
 
 # Kaggle Competitions
 1. Mechanism of Action Prediction
